@@ -69,11 +69,11 @@ a:active {
 <div class="rectangle"> 
 <br>
 <br>
-<br> <font face="Lexend.ttf"> <font size="+10"> <center> MEMBERS </font>
+<br> <font face="LexendMega-Regular"> <font size="+10"> <center> MEMBERS </font>
 <br>
 <br>
 <br>
-<p> <font face="Adam.ttf"> <font size="+1"> <b> MAXILUM, Colene V.
+<p> <font face="Adam-Light"> <font size="+1"> <b> MAXILUM, Colene V.
 <br>
 <br>
 <br>
