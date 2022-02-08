@@ -13,7 +13,7 @@ background-repeat: no-repeat ;
 background-attachment: fixed ;
 }
 body {
-font-family: Market Deco.ttf;
+font-family: Market_Deco;
 margin: 0;
 }
 .header {
