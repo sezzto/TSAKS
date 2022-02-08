@@ -16,7 +16,6 @@ body {
 font-family: Century Gothic;
 margin: 0;
 }
-.font-face
 .header {
 padding: 5px;
 text-align: center;
