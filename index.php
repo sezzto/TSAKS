@@ -60,7 +60,7 @@ a:active {
 <font face="NEON LED Light"> <font color="#EDE9E8"> <font size="+5"> <center> <h2> 3RD QUARTER PERFORMANCE TASKS </h2> </font> </center> </br>
 <div class="row"> <a href="CLE.html"> <img src="FAMILY.png" width="400" height="400"> </a>
 <a href="CAE.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="DRAMA.png" width="400" height="400"> </a>
-<a href="MATH.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="PT/GEOMETRY.png" width="400" height="400"> </a> </div>
+<a href="MATH.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="GEOMETRY.png" width="400" height="400"> </a> </div>
 <style>
 .rectangle {
   height: 530px;
