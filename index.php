@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title> 3rd Quarter: Performance Tasks </title>
-<link rel="shortcut icon" type="image/png" sizes="32x32" href="PT/LOGO.png">
+<link rel="shortcut icon" type="image/png" sizes="32x32" href="LOGO.png">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -53,11 +53,11 @@ a:active {
 <br>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="PT/OMAY.png" width="100" length="100">
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="OMAY.png" width="100" length="100">
 <font face="NEON LED Light"> <font color="#EDE9E8"> <font size="+5"> <center> <h2> 3RD QUARTER PERFORMANCE TASKS </h2> </font> </center> </br>
-<div class="row"> <a href="PT/CLE.html"> <img src="PT/FAMILY.png" width="400" height="400"> </a>
-<a href="PT/CAE.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="PT/DRAMA.png" width="400" height="400"> </a>
-<a href="PT/MATH.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="PT/GEOMETRY.png" width="400" height="400"> </a> </div>
+<div class="row"> <a href="CLE.html"> <img src="PT/FAMILY.png" width="400" height="400"> </a>
+<a href="CAE.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="DRAMA.png" width="400" height="400"> </a>
+<a href="MATH.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="PT/GEOMETRY.png" width="400" height="400"> </a> </div>
 <style>
 .rectangle {
   height: 530px;
