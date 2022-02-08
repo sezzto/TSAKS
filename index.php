@@ -54,7 +54,7 @@ a:active {
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="OMAY.png" width="100" length="100">
-<font face="NEON LED Light.otf"> <font color="#EDE9E8"> <font size="+5"> <center> <h2> 3RD QUARTER PERFORMANCE TASKS </h2> </font> </center> </br>
+<font face="NEONLEDLight"> <font color="#EDE9E8"> <font size="+5"> <center> <h2> 3RD QUARTER PERFORMANCE TASKS </h2> </font> </center> </br>
 <div class="row"> <a href="CLE.html"> <img src="FAMILY.png" width="400" height="400"> </a>
 <a href="CAE.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="DRAMA.png" width="400" height="400"> </a>
 <a href="MATH.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="GEOMETRY.png" width="400" height="400"> </a> </div>
@@ -69,7 +69,7 @@ a:active {
 <div class="rectangle"> 
 <br>
 <br>
-<br> <font face="Lexend Mega.ttf"> <font size="+10"> <center> MEMBERS </font>
+<br> <font face="Lexend.ttf"> <font size="+10"> <center> MEMBERS </font>
 <br>
 <br>
 <br>
