@@ -53,7 +53,7 @@ a:active {
 <br>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="CARMELLETLE.png" width="300" length="300">
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="CARMELLETLE.png" width="450" length="450">
 <font face="Century Gothic"> <font color="#EDE9E8"> <font size="+5"> <b> <center> <h2> 3RD QUARTER PERFORMANCE TASKS </h2> </b> </font> </center> </br>
 <div class="row"> <a href="CLE.html"> <img src="FAMILY.png" width="400" height="400" align="left"> </a>
 <a href="CAE.html"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="DRAMA.png" width="400" height="400"> </a>
